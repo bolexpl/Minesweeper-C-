@@ -1,0 +1,3 @@
+/home/bolek/Dokumenty/CLionProjects/minesweeper/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bolek/Dokumenty/CLionProjects/minesweeper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bolek/Dokumenty/CLionProjects/minesweeper/cmake-build-debug/CMakeFiles/minesweeper.dir
